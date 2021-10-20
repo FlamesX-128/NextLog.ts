@@ -1,0 +1,25 @@
+{
+  "name": "@flamesx128/nextlog.ts",
+  "version": "0.1.0",
+  "description": "This library adds different console logs with status and color.",
+  "main": "mod.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlamesX-128/NextLog.ts.git"
+  },
+  "author": "FlamesX128 <glowingorangeflames@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/FlamesX-128/NextLog.ts/issues"
+  },
+  "homepage": "https://github.com/FlamesX-128/NextLog.ts#readme",
+  "scripts": {},
+  "keywords": [
+    "NextLog.ts",
+    "NextLog",
+    "Console",
+    "Log",
+    "Status"
+  ]
+}
