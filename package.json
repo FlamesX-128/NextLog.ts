@@ -1,6 +1,6 @@
 {
   "name": "@flamesx128/nextlog.ts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "This library adds different console logs with status and color.",
   "main": "mod.ts",
   "repository": {
