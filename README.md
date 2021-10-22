@@ -40,7 +40,7 @@ warn(message: any, ...options: any[]): void
 ### **Examples**
 
 ```ts
-import log from "./mod.ts";
+import { log } from "./mod.ts";
 
 (function main(): void {
   // Output: [<Date>] [<Time>] [<Status>] <Message>
