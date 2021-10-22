@@ -1,6 +1,19 @@
 # **NextLog.ts**
 This library adds different console logs with status and color.
 
+## **ChangeLog (0.2.0)**
+The default export value was changed, now an export const.
+
+**Before**
+```ts
+import log from "https://deno.land/x/nextlog@v0.1.0";
+```
+
+**Now**
+```ts
+import { log } from "https://deno.land/x/nextlog@v0.2.0";
+````
+
 ## **ChangeLog (0.1.0)**
 Functions:
 
