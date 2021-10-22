@@ -1,4 +1,4 @@
-import log from "./mod.ts";
+import { log } from "./mod.ts";
 
 (function main(): void {
   // Output: [<Date>] [<Time>] [<Status>] <Message>

@@ -157,4 +157,4 @@ class Log {
 
 
 /** @exports Log */
-export default new Log();
+export const log = new Log();
